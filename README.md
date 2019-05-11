@@ -1,5 +1,5 @@
 # Multiple Turtlebot3 navigation
-Hi everyone, this is a universitary project I developed with my collegues Dario Di Domenico, Daniele Gianfagna and Mauro Martini about multiple robot navigation and simulation across multiple machines.
+Hi everyone, this is a universiy project I developed with my colleagues Dario Di Domenico, Daniele Gianfagna and Mauro Martini about multiple robot navigation and simulation across multiple machines.
 
 ## Project goals
 1. Simulation of multiple robot navigation on a single machine. Spawn two Turtlebot3 on a single map and launch the navigation for both.
