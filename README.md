@@ -16,19 +16,29 @@ To run our launch files and our node, there are two possibilities:
 
 This is the explanation of the second method (the fastest):
 1. Remove the already existing catkin workspace (or rename it to not lose it):
+
 	$ rm -r ~/catkin_ws
+
 **If you already have projects into the catkin_ws directory please do not remove the catkin_ws, only rename it.**
+
 2. Download from our GitHub page the catkin_ws directory with the source folder only:
 
 https://drive.google.com/open?id=1G6ECFKyCK7Ljf4G8wbdKDaSupjOf6l3s
 
 3. Copy it to the “Home” directory of Ubuntu.
 4. Open a new terminal and launch:
+
 	$ source ~/catkin_ws/devel/setup.bash
+
 5. Change the directory:
+
 	$ cd ~/catkin_ws
+
 6. Do a catkin_make:
+
 	$ catkin_make
+
+
 If the catkin_make didn’t report any trouble, you are ready to use all our packages. You will find all the step inside the PDF file under the paragraph “Running multiple robots with our modified launch files”.
 
 Thank you for the attention.
