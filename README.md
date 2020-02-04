@@ -7,7 +7,7 @@ Hi everyone, this is a university project I developed with my colleagues Dario D
 3. Simulation of multiple robot navigation across 3 different PCs.
 
 ## Documentation
-All the documentation, with guides, some theretical issue, troubleshooting ecc. can be found in the PDF file in the repository.
+All the documentation, with guides, some theoretical issue, troubleshooting ecc. can be found in the PDF file in the repository.
 
 ## How to directly use our catkin workspace
 To run our launch files and our node, there are two possibilities:
